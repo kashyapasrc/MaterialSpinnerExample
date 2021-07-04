@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MaterialSpinnerExample</string>
+    <string name="languages">Languages</string>
+
+    <string name="c">C</string>
+    <string name="cpp">C++</string>
+    <string name="java">Java</string>
+    <string name="kotlin">Kotlin</string>
+
+    <string-array name="coding_languages">
+        <item>@string/c</item>
+        <item>@string/cpp</item>
+        <item>@string/java</item>
+        <item>@string/kotlin</item>
+    </string-array>
+</resources>
